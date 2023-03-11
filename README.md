@@ -11,8 +11,8 @@
 
 ## 브리프 바이오로지
 고 이형철 약력 및 사진
-![Heisyoung](https://user-images.githubusercontent.com/10893178/224475937-cb15e805-e1b6-4a04-91a8-64bc8e5845f6.jpeg){:width="20%" height="20%"}
-<img src="/img/myImg.png" width="300" height="300">
+
+<img src="![Heisyoung](https://user-images.githubusercontent.com/10893178/224476532-42e557da-35ea-4033-9679-d37cc31e9c1d.jpeg)" width="100">
 
 (1935년~2012년)
 한국관광공사 진흥부장
