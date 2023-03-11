@@ -9,11 +9,11 @@
 - B
 - C
 
-## 브리프 바이오로지
+## 브리프 프로파일
 고 이형철 약력 및 사진
 
-<img src="![Heisyoung](https://user-images.githubusercontent.com/10893178/224476532-42e557da-35ea-4033-9679-d37cc31e9c1d.jpeg)" width="100">
-
+<img src="https://user-images.githubusercontent.com/10893178/224476532-42e557da-35ea-4033-9679-d37cc31e9c1d.jpeg" width="100" height="200">
+<img src="https://i.pinimg.com/originals/20/78/a9/2078a921387fb535735b19820175bacf.jpg" width="500">
 (1935년~2012년)
 한국관광공사 진흥부장
 자유총연맹 이사
