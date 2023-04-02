@@ -6,7 +6,7 @@
   - 이 공간을 이용하여 일단 첫 발을 내딛다       
 
 ## 저서들
-- 국제행사운영총람(Convention & Business Manual, 삼학풀판사)
+- 국제행사운영총람(Convention & Business Manual, 삼학출판사)
 - 국제매너 & 회화법 (김영사)
 - 행정안정부 초청강의중 우수강사에 선정 됨
 
