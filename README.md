@@ -45,3 +45,7 @@
 
   - It's clear that your father was highly intelligent and had many admirable qualities. You have fond memories of him, such as him encouraging you to read Japanese books and memorize English phrases. It's natural to want to honor his memory, and sharing his story is a great way to do that. Thank you for sharing his accomplishments and memories with me.
   - -- 작성중 3.30, 목
+
+## 결혼
+  - 1962년 혼인
+  - 슬하에 2남 1녀
