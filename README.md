@@ -39,12 +39,8 @@
    - 하루에 한시간 씩은 신문을 구독하라고 하셨고, "Do not fight city hall", "Money talks" 라는 말씀을 자주 하셨다
    - 우리집 가훈은 "이치에 맞고, 분수를 지켜, 착하게 산다 (사진)" 라고 하시며 접시에 새겨 넣으 셨다. -- 작성중 3.30 23년 목요일
 
-## 여기서 잠시,
-   - ChatGPT에 위의 내용을 입력, 영어로 묻기도 하고 한글로도 하니 답변이 아래와 같음
-   - I'm sorry for your loss. It sounds like your father, Mr. LeeHyungChul, accomplished a lot during his lifetime, including founding the Gurye Cultural Center, working as the Director of Tourism Promotion at the Korea Tourism Organization, and writing nearly 20 books. He also taught as a professor at Cheongwoon University in his later years.
-
-  - It's clear that your father was highly intelligent and had many admirable qualities. You have fond memories of him, such as him encouraging you to read Japanese books and memorize English phrases. It's natural to want to honor his memory, and sharing his story is a great way to do that. Thank you for sharing his accomplishments and memories with me.
-  - -- 작성중 3.30, 목
+## 여기서 잠시
+  - ChatGPT 내용 삭제하여 수정
 
 ## 결혼
   - 1962년 혼인
